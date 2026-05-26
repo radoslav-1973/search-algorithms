@@ -1,5 +1,5 @@
 # The Boyer-Moore Voting Algorithm is a highly efficient algorithm used to find the majority element in a sequence—an element that appears more than times—in time and space. It uses a clever "cancellation" technique to track a candidate and a counter.
-
+# test
 # How it works:
 
 # 1. We start with a candidate (initially None) and a count (initially 0)
